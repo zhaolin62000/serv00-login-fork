@@ -1,5 +1,8 @@
 ## serv00与ct8自动化批量保号，每3天自动登录一次面板，并且发送消息到Telegram
 
+推送微信移步：
+https://blog.csdn.net/gally16/article/details/145101233?fromshare=blogdetail&sharetype=blogdetail&sharerId=145101233&sharerefer=PC&sharesource=gally16&sharefrom=from_link
+
 ## 视频教程看这里
 [免费白嫖10年VPS服务器serv00 并且一键部署自己的专属自建Vless节点 ｜小白教程｜自动化批量保号](https://youtu.be/QnlzpvDl_mo)
 
